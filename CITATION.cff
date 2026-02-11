@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use g1t, please cite it as below."
+type: software
+title: "g1t"
+abstract: "g1t"
+authors:
+  - alias: nirholas
+    name: nirholas
+repository-code: "https://github.com/nirholas/g1t"
+url: "https://github.com/nirholas/g1t"
+license: MIT
+version: "1.0.0"
+date-released: "2026-02-11"
+keywords:
+  - open-source
+  - nirholas

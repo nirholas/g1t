@@ -1,0 +1,9 @@
+# g1t
+
+> g1t
+
+## Links
+
+- Repository: https://github.com/nirholas/g1t
+- Author: https://github.com/nirholas
+- Full documentation: https://raw.githubusercontent.com/nirholas/g1t/main/llms-full.txt

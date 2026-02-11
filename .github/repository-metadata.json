@@ -1,0 +1,13 @@
+{
+    "name": "g1t",
+    "description": "g1t",
+    "version": "1.0.0",
+    "publisher": "nirholas",
+    "repository": "https://github.com/nirholas/g1t",
+    "language": "JavaScript",
+    "topics": [
+        "nirholas",
+        "open-source",
+        "g1t"
+    ]
+}
