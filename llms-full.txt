@@ -10,7 +10,7 @@ g1t is an open-source project by nirholas. g1t
 
 - URL: https://github.com/nirholas/g1t
 - Language: JavaScript
-- License: MIT
+- License: All rights reserved (see LICENSE)
 - Author: nirholas
 
 ## Contributing

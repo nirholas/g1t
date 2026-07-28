@@ -1,1 +1,2 @@
-#!/usr/bin/env node\nconsole.log("g1t 🎨");
+#!/usr/bin/env node
+console.log("g1t 🎨");
