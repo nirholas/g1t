@@ -1,10 +1,14 @@
 # g1t Development Guidelines
 
-> g1t
+> A minimal CLI for recording your commits.
 
 ## Project Overview
 
-g1t is built with JavaScript. See the README for full documentation.
+g1t is a single-file Node.js CLI with no dependencies. The whole program is `index.js`,
+exposed as the `g1t` bin in package.json. There is no build step and no test suite: to
+verify a change, run `node index.js` and check the output.
+
+The current release is a stub that prints a banner and reserves the command name.
 
 ### Terminal Management
 

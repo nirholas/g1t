@@ -1,6 +1,6 @@
 # g1t
 
-> g1t
+> A minimal CLI for recording your commits.
 
 ## Links
 

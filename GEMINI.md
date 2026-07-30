@@ -1,6 +1,7 @@
 # g1t
 
-> g1t
+> A minimal CLI for recording your commits. Early stage: the current release
+> prints a banner and reserves the `g1t` command name. Single file, no dependencies.
 
 ### Terminal Management
 

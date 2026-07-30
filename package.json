@@ -1,1 +1,33 @@
-{"name":"g1t","version":"0.0.1","description":"record your commits","main":"index.js","bin":{"g1t":"./index.js"},"keywords":["git","emoji","commits","cli"],"author":"nirholas","license": "SEE LICENSE IN LICENSE"}
+{
+  "name": "g1t",
+  "version": "0.0.1",
+  "description": "record your commits",
+  "main": "index.js",
+  "bin": {
+    "g1t": "./index.js"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=14"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nirholas/g1t.git"
+  },
+  "homepage": "https://github.com/nirholas/g1t#readme",
+  "bugs": {
+    "url": "https://github.com/nirholas/g1t/issues"
+  },
+  "keywords": [
+    "git",
+    "emoji",
+    "commits",
+    "cli"
+  ],
+  "author": "nirholas",
+  "license": "SEE LICENSE IN LICENSE"
+}

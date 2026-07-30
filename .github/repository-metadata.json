@@ -1,7 +1,7 @@
 {
     "name": "g1t",
-    "description": "g1t",
-    "version": "1.0.0",
+    "description": "A minimal CLI for recording your commits.",
+    "version": "0.0.1",
     "publisher": "nirholas",
     "repository": "https://github.com/nirholas/g1t",
     "language": "JavaScript",

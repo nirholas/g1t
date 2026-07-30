@@ -2,7 +2,9 @@
 
 ## Overview
 
-g1t: g1t
+g1t is a single-file Node.js CLI with no dependencies. The current release prints a
+banner and does not read, write, or execute anything, so its attack surface is limited
+to the package metadata itself.
 
 ## Reporting a Vulnerability
 

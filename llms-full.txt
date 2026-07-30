@@ -1,10 +1,13 @@
 # g1t
 
-> g1t
+> A minimal CLI for recording your commits.
 
 ## Overview
 
-g1t is an open-source project by nirholas. g1t
+g1t is a single-file Node.js CLI by nirholas, published to npm as `g1t`. It has no
+dependencies and no build step: the whole program is `index.js`, exposed as the `g1t`
+bin. The current release (0.0.1) is a stub that prints a banner and reserves the
+command name.
 
 ## Repository
 
